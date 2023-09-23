@@ -7,9 +7,9 @@ The files are in the [markdown](https://docs.github.com/en/get-started/writing-o
 - suggestions
 - questions
 
-##### Make pull request editing the markdown files (not the PDFs)
+#### Make pull request editing the markdown files (not the PDFs)
 
-##### [Guide to write in Markdown](https://www.markdownguide.org/cheat-sheet/)
+#### [Guide to write in Markdown](https://www.markdownguide.org/cheat-sheet/)
 
 ---
 # ApuntesIA
@@ -21,6 +21,6 @@ Los archivos están hechos en el formato markdown (`.md`)
 - sugerencias
 - preguntas
 
-##### Hacer una pull request editando los archivos markdown (no los PDFs)
+#### Hacer una pull request editando los archivos markdown (no los PDFs)
 
-##### [Guía para escribir en Markdown](https://www.markdownguide.org/cheat-sheet/)
+#### [Guía para escribir en Markdown](https://www.markdownguide.org/cheat-sheet/)
